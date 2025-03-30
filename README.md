@@ -14,7 +14,8 @@ A **secure and customizable password generator** built with Flutter. This app al
 - **Material Design** for UI  
 
 ## 📷 Screenshots  
-*(Add screenshots of your app here)*  
+![image](https://github.com/user-attachments/assets/475d5345-7eb7-4422-a6b1-f364e316a071)
+
 
 ## 🔧 Installation & Usage  
 1. **Clone the repository**  
